@@ -1,9 +1,9 @@
 Hii...👋 
 
-🌱 I’m currently learning on **Android and IOS Mobile Projects**
-👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
-💬 Ask me about **Technology and Personal Development**
-📫 How to reach me: **naveenkumardasari6788@gmail.com**
+🌱 I’m currently learning on **Android and IOS Mobile Projects** <br>
+👯 I’m looking to collaborate on **Mobile and Backend Dev Projects** <br>
+💬 Ask me about **Technology and Personal Development** <br>
+📫 How to reach me: **naveenkumardasari6788@gmail.com** <br>
 😄 Pronouns: **He/Him**
 
 ## 🏆 GitHub Trophies
