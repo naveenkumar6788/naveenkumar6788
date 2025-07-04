@@ -1,4 +1,7 @@
-Hii...👋 
+![logo](https://github.com/23MHCQ05234/23MHCQ05234/blob/main/GIT_PIC.jpg)
+
+<h1 align="center">Hi...👋, I'm Naveen Kumar</h1>
+<h3 align="center">A passionate Software Engineer </h3>
 
 🌱 I’m currently learning on **Android and IOS Mobile Projects** <br>
 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects** <br>
