@@ -1,10 +1,10 @@
-Hi there 👋 
+Hii...👋 
 
 🌱 I’m currently learning on **Android and IOS Mobile Projects**
 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
 💬 Ask me about **Technology and Personal Development**
 📫 How to reach me: **naveenkumardasari6788@gmail.com**
-😄 Pronouns: He/Him
+😄 Pronouns: **He/Him**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=23MHCQ05234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
