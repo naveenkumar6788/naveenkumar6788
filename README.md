@@ -3,13 +3,25 @@
 <h1 align="center">Hi...👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=23mhcq05234&label=Profile%20views&color=0e75b6&style=flat" alt="23mhcq05234" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=23mhcq05234&label=Profile%20views&color=0e75b6&style=flat" alt="23mhcq05234" />
+</p>
 
-🌱 I’m currently learning on **Android and IOS Mobile Projects** <br>
-👯 I’m looking to collaborate on **Mobile and Backend Dev Projects** <br>
-💬 Ask me about **Technology and Personal Development** <br>
-📫 How to reach me: **naveenkumardasari6788@gmail.com** <br>
-😄 Pronouns: **He/Him**
+<table>
+  <tr>
+    <td>
+      🌱 I’m currently learning on <b>Android and IOS Mobile Projects</b> <br>
+      👯 I’m looking to collaborate on <b>Mobile and Backend Dev Projects</b> <br>
+      💬 Ask me about <b>Technology and Personal Development</b> <br>
+      📫 How to reach me: <b>naveenkumardasari6788@gmail.com</b> <br>
+      😄 Pronouns: <b>He/Him</b>
+    </td>
+    <td>
+      <img src="https://github.com/23MHCQ05234/23MHCQ05234/blob/main/GIT_PIC.jpg?raw=true" alt="logo" width="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=23MHCQ05234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
