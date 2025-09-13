@@ -35,7 +35,7 @@
 
 
 
-## 📈 Contribution Graph
+## 📈 Commits Graph
 [![Naveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=react-dark)](https://github.com//github-readme-activity-graph)
 
 
