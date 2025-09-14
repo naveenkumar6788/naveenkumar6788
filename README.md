@@ -38,12 +38,12 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
   </a>  
-   
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naveenkumar6788&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar6788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ## 👨🏻‍💻 My Coding Profiles:
 
@@ -72,13 +72,15 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar6788&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenkumar6788&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar6788&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar6788&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenkumar6788&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar6788&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
 </p>
 
 
-### 📊 Commits Graph
+
+
+## 📊 Commits Graph
 ![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=tokyo-night&area=true&area_color=ffb86c&line=ff79c6&point=bd93f9&hide_border=true&custom_title=naveenkumar6788's%20Commits%20Graph&hide_yaxis_title=true)
 
 
