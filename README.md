@@ -29,15 +29,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> 
   </a>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>  
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40"/> 
   </a>  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
   </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a>   
+   
 </p>
 
 ## 🏆 GitHub Trophies
@@ -45,23 +46,41 @@
 
 
 ## 👨🏻‍💻 My Coding Profiles:
+
 <p align="left">
-<a href="https://www.codechef.com/users/naveenkumar788" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naveenkumar788" height="30" width="40" /></a>   <a href="https://www.hackerrank.com/naveenkumar6788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveenkumar6788" height="30" width="40" /></a>   <a href="https://auth.geeksforgeeks.org/user/_naveenkumar_dasari_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_naveenkumar_dasari_/" height="30" width="40" /></a>   <a href="https://www.leetcode.com/naveenkumar788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveenkumar788" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/naveenkumar788" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/naveenkumar6788" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/naveenkumar788" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/_naveenkumar_dasari_/" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-kumar-dasari-582443330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenkumardasari6778@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naveenkumar6788&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naveenkumar6788&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar6788&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=naveenkumar6788&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-dasari-582443330/) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkumardasari6778@gmail.com) 
 
 
+## 📊 GitHub Stats:
 
-## 📈 Commits Graph
-[![Naveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=react-dark)](https://github.com//github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar6788&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenkumar6788&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar6788&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
+</p>
+
+
+### 📊 Commits Graph
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=tokyo-night&area=true&area_color=ffb86c&line=ff79c6&point=bd93f9&hide_border=true&custom_title=naveenkumar6788's%20Commits%20Graph&hide_yaxis_title=true)
+
 
 
 
