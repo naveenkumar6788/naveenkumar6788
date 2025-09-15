@@ -80,8 +80,8 @@
 
 
 
-## 📊 Commits Graph
-![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=tokyo-night&area=true&area_color=ffb86c&line=ff79c6&point=bd93f9&hide_border=true&custom_title=naveenkumar6788's%20Commits%20Graph&hide_yaxis_title=true)
+## 📊 Contributions Graph
+![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=tokyo-night&area=true&area_color=ffb86c&line=ff79c6&point=bd93f9&hide_border=true&custom_title=naveenkumar6788's%20Commits%20Graph&hide_yaxis_title=true)
 
 
 
