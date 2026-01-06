@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi...👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate Software Engineer </h3>
+<p align="center">
+  <a href="http://naveenkumar6788.vercel.app/" target="_blank">
+    🌐 <b>Visit My Portfolio</b>
+  </a>
+</p>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=23mhcq05234&label=Profile%20views&color=0e75b6&style=flat" alt="23mhcq05234" /> </p>
 <img align="right" height="150" width="320" src="https://github.com/23MHCQ05234/23MHCQ05234/blob/main/image_git.jpg?raw=true" />
