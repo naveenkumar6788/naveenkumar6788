@@ -4,9 +4,10 @@
 <h3 align="center">A passionate Software Engineer </h3>
 <p align="center">
   <a href="http://naveenkumar6788.vercel.app/" target="_blank">
-    🌐 <b>Visit My Portfolio</b>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-ff79c6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=23mhcq05234&label=Profile%20views&color=0e75b6&style=flat" alt="23mhcq05234" /> </p>
