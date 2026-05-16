@@ -21,7 +21,8 @@
 
 ## 💻 Languages And Tools:
 <p align="left"> 
- <!-- Core Languages -->
+
+<!-- Core Languages -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/>
 </a>
@@ -50,26 +51,62 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/>
 </a>
+
 <!-- Backend -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-       alt="expressjs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
 </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="restapi" width="40" height="40"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-       alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </a>
 
+<!-- DevOps / Cloud -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="jenkins" width="40" height="40"/>
+</a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/>
+</a>
 
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+<!-- OS -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/>
+</a>
 
 </p>
 
