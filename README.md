@@ -10,8 +10,8 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=23mhcq05234&label=Profile%20views&color=0e75b6&style=flat" alt="23mhcq05234" /> </p>
-<img align="right" height="150" width="320" src="https://github.com/23MHCQ05234/23MHCQ05234/blob/main/image_git.jpg?raw=true" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=naveenkumar6788&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar6788" /> </p>
+<img align="right" height="150" width="320" src="https://github.com/naveenkumar6788/naveenkumar6788/blob/main/image_git.jpg?raw=true" />
 
 🌱 I’m currently learning on **Android and IOS Mobile Projects** <br>
 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects** <br>
