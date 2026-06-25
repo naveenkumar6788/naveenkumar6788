@@ -1,6 +1,6 @@
 ![logo](https://github.com/23MHCQ05234/23MHCQ05234/blob/main/Banner.png)
 
-<h1 align="center">Hi...👋, I'm Naveen Kumar</h1>
+<h1 align="center">Hi...👋, I'm Naveen Kumar Dasari</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 <p align="center">
   <a href="http://naveenkumar6788.vercel.app/" target="_blank">
