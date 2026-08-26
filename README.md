@@ -1,4 +1,5 @@
-![logo](https://github.com/23MHCQ05234/23MHCQ05234/blob/main/Banner.png)
+![logo](https://github.com/naveenkumar6788/naveenkumar6788/blob/main/Banner.png)
+
 
 <h1 align="center">Hi...👋, I'm Naveen Kumar Dasari</h1>
 <h3 align="center">A passionate Software Engineer </h3>
@@ -136,7 +137,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar-dasari) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkumardasari6778@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkumardasari6788@gmail.com) 
 
 
 ## 📊 GitHub Stats:
@@ -151,8 +152,8 @@
 
 
 ## 📊 Contributions Graph
-![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=tokyo-night&area=true&area_color=ffb86c&line=ff79c6&point=bd93f9&hide_border=true&custom_title=naveenkumar6788's%20Commits%20Graph&hide_yaxis_title=true)
 
+![Naveen Kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar6788&theme=tokyo-night&area=true&hide_border=true)
 
 
 
