@@ -145,11 +145,14 @@
   <img src="https://streak-stats.demolab.com?user=naveenkumar6788&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📊 Contributions Graph
-<p align="center">
-  <img src="https://github.pumbas.net/api/contributions/naveenkumar6788?colour=ff79c6&bgColour=0d1117&dotColour=bd93f9"
-       alt="Naveen Kumar Dasari's GitHub Contributions" />
-</p>
 
+## 📊 Contributions Graph
+
+<p align="center">
+  <img
+    src="https://github.pumbas.net/api/contributions/naveenkumar6788"
+    alt="Naveen Kumar Dasari's GitHub Contributions"
+  />
+</p>
 
 
