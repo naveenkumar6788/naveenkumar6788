@@ -141,11 +141,8 @@
 
 
 ## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar6788&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenkumar6788&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar6788&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
+  <img src="https://streak-stats.demolab.com?user=naveenkumar6788&theme=tokyonight&hide_border=true" />
 </p>
 
 
