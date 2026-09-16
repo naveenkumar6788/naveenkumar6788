@@ -1,4 +1,4 @@
-![logo](https://github.com/naveenkumar6788/naveenkumar6788/blob/main/Banner.png
+![logo](https://github.com/naveenkumar6788/naveenkumar6788/blob/main/Banner.png)
 
 
 <h1 align="center">Hi...👋, I'm Naveen Kumar Dasari</h1>
